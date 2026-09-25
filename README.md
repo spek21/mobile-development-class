@@ -1,2 +1,1 @@
-# mobile-development-class
-Repository for the Mobile Device Development class
+Repositório referente a aula de Desenvolvimento de Dispositivos Móveis, aula mestrada pelo professor Arnaldo Sanchez.
